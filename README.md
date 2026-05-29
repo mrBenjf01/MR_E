@@ -1,4 +1,4 @@
-# E_TOOL / Janob_-_gihtub
+# E_TOOL / Э-tools
 
 Simple Python terminal tool with:
 - Scan module
