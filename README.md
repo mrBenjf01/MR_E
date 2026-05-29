@@ -1,14 +1,18 @@
-# E_TOOL / Э-tools
+# MR_E Terminal Tool
 
-Simple Python terminal tool with:
-- Scan module
-- Animation module
-- ASCII banner UI
+Simple Python terminal interface with:
+
+- ASCII Banner UI
+- Scan Module (Simulation)
+- Animation Module
+- Interactive Menu System
+
+---
 
 ## Installation
 
 ```bash
-git clone https://github.com/mrBenj101/Janob_-_gihtub.git
-cd Janob_-_gihtub
-pip install -r talablar.txt
+git clone https://github.com/mrBenjf01/MR_E.git
+cd MR_E
+pip install -r requirements.txt
 python main.py
