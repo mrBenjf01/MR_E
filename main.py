@@ -1,4 +1,4 @@
-from core.ui import print_banner, menu
+from ui import print_banner, menu
 from modules.scan import run_scan
 from modules.animation import run_animation
 
